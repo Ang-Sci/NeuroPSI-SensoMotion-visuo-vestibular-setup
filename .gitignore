@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Arduino / C++
+*.hex
+*.elf
+
+# Fichiers système (Mac / Windows)
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration d'éditeurs (ex: VS Code)
+.vscode/
